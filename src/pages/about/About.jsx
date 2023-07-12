@@ -11,7 +11,7 @@ import {BsEmojiSunglasses} from 'react-icons/bs';
 const About = () => {
   return (
     <AboutContainer>
-      {/* sayfanın tamamı */}
+      {/* sayfanın tamamıd */}
       <StyledImage src={codingSvg} />
       <HeaderContainer>
         <h1>
